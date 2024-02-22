@@ -1,5 +1,4 @@
 # pre-commit-extract-todos
-===============
 
 Extract todos into a todos.txt file.
 
