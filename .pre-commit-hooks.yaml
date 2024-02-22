@@ -1,0 +1,6 @@
+- id: extract-todos
+  name: Extract TODOs
+  description: Will extract TODOs in a todos.txt file for you to review or commit
+  entry: extract_todos.sh
+  language: script
+  types: [text]
