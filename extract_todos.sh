@@ -1,4 +1,3 @@
-$ cat extract_todos.sh 
 #!/bin/bash
 
 # Find and extract TODO markers from the codebase
